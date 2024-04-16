@@ -1,4 +1,4 @@
-👋 Hi, I'm @MarcRodriguez21.
+👋 Hi, I'm @MarcRodriguez21, I'm 28 years old and I'm from Barcelona. 
 
 👀 I'm interested in Java, Go, SQL, JavaScript, React, Angular, and Node.
 
